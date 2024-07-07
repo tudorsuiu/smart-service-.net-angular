@@ -26,8 +26,5 @@ TODO
 <h2>📈 Project status</h2>
 TODO
 
-<h2>📸 Screenshots</h2>
-<p> <strong>Log in page:</strong> <i> This is the first page that appears when running the application. </i> </p>
-<img src="https://user-images.githubusercontent.com/75640917/223334766-c386b7e4-40dc-4db9-a9ee-27163ef3c1ed.png">
-
 <h2>🎬 App Demo</h2>
+https://youtu.be/BOrhQyg6IvY
