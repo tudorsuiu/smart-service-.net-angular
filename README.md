@@ -1,6 +1,5 @@
 <h2>ℹ️ About</h2>
-TODO
-
+Smart Service is an auto repair shop management application designed to streamline operations for both customers and service personnel. It offers a centralized platform that facilitates scheduling, tracking repairs, and managing invoices, improving the experience for all parties involved.
 
 <h2>🛠️ Functionalities</h2>
 TODO
