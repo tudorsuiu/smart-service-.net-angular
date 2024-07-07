@@ -17,6 +17,7 @@ TODO
 
 <h2>🧠 Key learnings</h2>
 TODO
+
 - <strong>Database:</strong> <i>I learned how to connect to a PostgreSQL database and how to use it in my application.</i>
 - <strong>Design patterns:</strong> <i>I understood better the concept of "Design patterns" and why it should be implemented in any application.</i>
 - <strong>GUI with JavaFX:</strong> <i>I learned how to link the logical part of the program and the part of the graphic interface with which the user interacts by using JavaFX.</i>
