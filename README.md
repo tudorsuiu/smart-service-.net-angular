@@ -2,12 +2,14 @@
 Smart Service is an auto repair shop management application designed to streamline operations for both customers and service personnel. It offers a centralized platform that facilitates scheduling, tracking repairs, and managing invoices, improving the experience for all parties involved.
 
 <h2>🛠️ Functionalities</h2>
+
 <strong>Administrator:</strong>
 <br>
 ✅ <strong>Invoice Viewing:</strong> <i>Viewing the status of invoices for all clients, allowing efficient monitoring of all financial transactions.</i>
 <br>
 ✅ <strong>Mechanic Account Management:</strong> <i>Adding mechanics to the platform, thereby controlling the human resources that interact directly with the application and clients.</i>
 <br>
+
 <strong>Mechanic:</strong>
 <br>
 ✅ <strong>Managing Repair Status:</strong> <i>Initially, any new repair is automatically set to the status "New." The mechanic can update this status to "In Progress" to indicate that the work is underway. After completion, the status can be changed to "Awaiting Payment".</i>
