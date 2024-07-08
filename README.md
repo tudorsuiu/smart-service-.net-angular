@@ -31,6 +31,7 @@ Smart Service is an auto repair shop management application designed to streamli
 <br>
 
 <h2>👤 Users feedback</h2>
+
 The application was tested by 8 users. Among them, 3 used it on both tablets and phones, while 5 used it only on phones; the entire group later tested the application on desktop or laptop as well. They appreciated the minimalist and easy-to-navigate design of the site. The fact that they could use the application on both smaller screens (phones/tablets) and larger screens (laptop/desktop) without any change in user experience was another strong point.
 <br>
 
@@ -38,6 +39,7 @@ In terms of functionalities, users were satisfied. They operated as expected, wi
 <br>
 
 <h2>🧑‍🔧 Mechanic feedback</h2>
+
 The mechanic mentioned that for him, the ability to use the application on a phone is a big plus, as he doesn't always have the opportunity to carry a laptop or any other device with a larger screen. He appreciated how quickly he could connect and the convenience of remaining logged into his account, as well as the simplicity of modifying the repair statuses.
 <br>
 
@@ -45,6 +47,7 @@ He suggested that in the future, an option to revert to a previous repair status
 <br>
 
 <h2>👨‍💼 Administrator feedback</h2>
+
 The administration expressed great appreciation for the fact that the application can be used on any device while maintaining a consistent user experience. This capability allows administrators to efficiently manage operations and access necessary information in real-time.
 <br>
 
