@@ -2,16 +2,28 @@
 Smart Service is an auto repair shop management application designed to streamline operations for both customers and service personnel. It offers a centralized platform that facilitates scheduling, tracking repairs, and managing invoices, improving the experience for all parties involved.
 
 <h2>🛠️ Functionalities</h2>
-TODO
-✅ <strong>Account creation:</strong> <i>Users should be able to create an account with their personal information, such as name, email, age and password.</i>
+Administrator:
+✅ <strong>Invoice Viewing:</strong> <i>Viewing the status of invoices for all clients, allowing efficient monitoring of all financial transactions.</i>
 <br>
-✅ <strong>Friend requests:</strong> <i>Users can search for and send friend requests to other users. Once a friend request is accepted, the two users become friends.</i>
+✅ <strong>Mechanic Account Management:</strong> <i>Adding mechanics to the platform, thereby controlling the human resources that interact directly with the application and clients.</i>
 <br>
-✅ <strong>Friend list:</strong> <i>Users can view a list of their current friends and their profiles. This list should include their friend's name, email and age.</i>
+
+Mechanic:
+✅ <strong>Managing Repair Status:</strong> <i>Initially, any new repair is automatically set to the status "New." The mechanic can update this status to "In Progress" to indicate that the work is underway. After completion, the status can be changed to "Awaiting Payment".</i>
 <br>
-✅ <strong>Unfriend option:</strong> <i>Users can unfriend someone from their friend list.</i>
+✅ <strong>Invoice Generation:</strong> <i>In the "Awaiting Payment" phase, the mechanic is responsible for entering the amount owed by the client and completing the process by changing the status to "Done," officially concluding the repair.</i>
 <br>
-✅ <strong>Friendship duration:</strong> <i>By selecting a user from the list and pressing a button, the day you became friends will appear on the screen.</i>
+
+User:
+✅ <strong>Registration and Authentication:</strong> <i>Users can create a new account by providing necessary personal data and authenticate within the application using established credentials. The registration and authentication process is secure, ensuring that access to the application's functionalities is authorized only to individuals with an existing account.</i>
+<br>
+✅ <strong>Vehicle Management:</strong> <i>Clients can add, edit, and delete vehicles from their account. Deleting a vehicle triggers a cascade deletion of all associated repairs and invoices.</i>
+<br>
+✅ <strong>Managing Reservations:</strong> <i>Users can create, edit, and cancel reservations. Cancelling a reservation also removes any associated invoice, if one exists for the repair.</i>
+<br>
+✅ <strong>Viewing Invoices:</strong> <i>Invoice viewing is simplified, allowing users to keep track of their expenses effectively.</i>
+<br>
+✅ <strong>Editing Profile:</strong> <i>Users can update their personal information to maintain accuracy within the platform.</i>
 <br>
 ⬜ <strong>Messaging:</strong> <i>Users can send and receive private messages to their friends, either one-on-one or in a group chat. The messaging feature should support text and emojis.</i>
 
