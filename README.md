@@ -28,7 +28,6 @@ Smart Service is an auto repair shop management application designed to streamli
 <br>
 ✅ <strong>Editing Profile:</strong> <i>Users can update their personal information to maintain accuracy within the platform.</i>
 <br>
-⬜ <strong>Messaging:</strong> <i>Users can send and receive private messages to their friends, either one-on-one or in a group chat. The messaging feature should support text and emojis.</i>
 
 <h2>🧠 Key learnings</h2>
 TODO
