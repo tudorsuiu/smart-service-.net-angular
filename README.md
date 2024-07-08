@@ -51,7 +51,7 @@ He suggested that in the future, an option to revert to a previous repair status
 The administration expressed great appreciation for the fact that the application can be used on any device while maintaining a consistent user experience. This capability allows administrators to efficiently manage operations and access necessary information in real-time.
 <br>
 
-Regarding the application's functionalities, it was noted that for an early-stage application, they are sufficient and usable in a real-world scenario. As future functionalities to implement, it was recommended to create a page where graphical representations of monthly revenues can be viewed, and to integrate with e-invoicing (the national electronic invoicing system). This integration would consolidate both operational and financial aspects into a single platform. As a result, a new role was identified within the application, that of an accountant, specifically focused on managing the financial side.
+Regarding the application's functionalities, it was noted that for an early-stage application, they are sufficient and usable in a real-world scenario. As future functionalities to implement, it was recommended to create a page where graphical representations of monthly revenues can be viewed, and to integrate with e-factura (the national electronic invoicing system). This integration would consolidate both operational and financial aspects into a single platform. As a result, a new role was identified within the application, that of an accountant, specifically focused on managing the financial side.
 <br>
 
 <h2>📈 Project status</h2>
