@@ -62,7 +62,7 @@ Smart Service is an auto repair shop management application designed to streamli
 <br>
 ↪ <strong>Database: </strong> Microsoft SQL Server.
 <br>
-↪ <strong>Deploy: </strong> Microsoft Azure
+↪ <strong>Deploy: </strong> Microsoft Azure.
 <br>
 
 <h2>🎬 App Demo</h2>
