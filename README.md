@@ -36,7 +36,6 @@ TODO
 <h2>User feedback</h2>
 The application was tested by 8 users. Among them, 3 used it on both tablets and phones, while 5 used it only on phones; the entire group later tested the application on desktop or laptop as well. They appreciated the minimalist and easy-to-navigate design of the site. The fact that they could use the application on both smaller screens (phones/tablets) and larger screens (laptop/desktop) without any change in user experience was another strong point.
 <br>
-
 In terms of functionalities, users were satisfied. They operated as expected, without causing visual problems or bugs during the application's use. Participants recommended adding new features, such as implementing a feedback system for mechanics and integrating an email notification system.
 
 <h2>🎬 App Demo</h2>
