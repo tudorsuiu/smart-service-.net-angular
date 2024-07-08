@@ -1,5 +1,5 @@
 <h2>ℹ️ About</h2>
-Smart Service is an auto repair shop management application designed to streamline operations for both customers and service personnel. It offers a centralized platform that facilitates scheduling, tracking repairs, and managing invoices, improving the experience for all parties involved.
+Smart Service is an auto repair shop management application designed to streamline operations for both customers and service personnel. It offers a centralized platform that facilitates scheduling, tracking repairs, and managing invoices, improving the experience for all parties involved. The application includes three roles: admin, mechanic, and user. The administrator can add mechanics and view invoices, the mechanic can manage repairs, and the user can manage their own repairs, view their invoices, and manage their vehicles.
 
 <h2>🛠️ Functionalities</h2>
 
@@ -30,16 +30,15 @@ Smart Service is an auto repair shop management application designed to streamli
 ✅ <strong>Editing Profile:</strong> <i>Users can update their personal information to maintain accuracy within the platform.</i>
 <br>
 
-<h2>🧠 Key learnings</h2>
-TODO
-
-- <strong>Database:</strong> <i>I learned how to connect to a PostgreSQL database and how to use it in my application.</i>
-- <strong>Design patterns:</strong> <i>I understood better the concept of "Design patterns" and why it should be implemented in any application.</i>
-- <strong>GUI with JavaFX:</strong> <i>I learned how to link the logical part of the program and the part of the graphic interface with which the user interacts by using JavaFX.</i>
-- <strong>Readability of code:</strong> <i>Writing code that is easy to read, understand, and maintain is essential for ensuring code quality and improving developer productivity.</i>
-
 <h2>📈 Project status</h2>
 TODO
+
+<h2>User feedback</h2>
+The application was tested by 8 users. Among them, 3 used it on both tablets and phones, while 5 used it only on phones; the entire group later tested the application on desktop or laptop as well. They appreciated the minimalist and easy-to-navigate design of the site. The fact that they could use the application on both smaller screens (phones/tablets) and larger screens (laptop/desktop) without any change in user experience was another strong point.
+
+In terms of functionalities, users were satisfied. They operated as expected, without causing visual problems or bugs during the application's use.
+
+Participants recommended adding new features, such as implementing a feedback system for mechanics and integrating an email notification system.
 
 <h2>🎬 App Demo</h2>
 https://youtu.be/BOrhQyg6IvY
