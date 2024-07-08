@@ -55,7 +55,15 @@ Smart Service is an auto repair shop management application designed to streamli
 <br>
 
 <h2>📈 Technologies used</h2>
-TODO
+
+↪ <strong>Frontend: </strong> Angular and Bootstrap.
+<br>
+↪ <strong>Backend: </strong> ASP .NET Core and Entity Framework Core.
+<br>
+↪ <strong>Database: </strong> Microsoft SQL Server.
+<br>
+↪ <strong>Deploy: </strong> Microsoft Azure
+<br>
 
 <h2>🎬 App Demo</h2>
-https://youtu.be/BOrhQyg6IvY
+You can watch a live demo here: https://youtu.be/BOrhQyg6IvY or you can try the application yourself following this [link](https://smartservicecl.azurewebsites.net/) or scanning the QR code.
