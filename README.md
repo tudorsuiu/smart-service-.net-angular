@@ -66,4 +66,7 @@ Smart Service is an auto repair shop management application designed to streamli
 <br>
 
 <h2>🎬 App Demo</h2>
+
 You can watch a live demo here: https://youtu.be/BOrhQyg6IvY or you can try the application yourself following this [link](https://smartservicecl.azurewebsites.net/) or scanning the QR code.
+![image](https://github.com/tudorsuiu/smart-service-.net-angular/assets/75640917/63d1e613-9f28-42c3-acaf-6f2c97cd1ad7)
+
